@@ -1,36 +1,37 @@
 #Porn
-pornmd.com
-tube8.com
-xhamster.com
-thumbzilla.com
-redtube.com
-pornhub.com
-xtube.com
+0.0.0.0 pornmd.com
+0.0.0.0 tube8.com
+0.0.0.0 xhamster.com
+0.0.0.0 thumbzilla.com
+0.0.0.0 redtube.com
+0.0.0.0 pornhub.com
+0.0.0.0 xtube.com
+0.0.0.0 xnxx.com
 
 #Ad's WoWhead Classic
-anyclip.com
-pixel.anyclip.com
-player.anyclip.com
-zan.videoplayerhub.com
+0.0.0.0 anyclip.com
+0.0.0.0 pixel.anyclip.com
+0.0.0.0 player.anyclip.com
+0.0.0.0 zan.videoplayerhub.com
 
 #Blocker
 #Amazon
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
 
 #Bugsnag
-https://api.bugsnag.com
-https://app.bugsnag.com
+0.0.0.0 https://api.bugsnag.com
+0.0.0.0 https://app.bugsnag.com
 
 #sentry
-https://browser.sentry-cdn.com
+0.0.0.0 https://browser.sentry-cdn.com
 
 #pintrest
-https://widgets.pinterest.com
+0.0.0.0 https://widgets.pinterest.com
 
 #reddit
-https://d.reddit.com
+0.0.0.0 https://d.reddit.com
 
 #samsung
-https://samsung-com.112.2o7.net
+0.0.0.0 https://samsung-com.112.2o7.net

@@ -1,14 +1,14 @@
 #Porn
-pornmd.com
-tube8.com
-xhamster.com
-xnxx.com
-youporn.com
-modelhub.com
-thumbzilla.com
-redtube.com
-pornhub.com
-xtube.com
+0.0.0.0 pornmd.com
+0.0.0.0 tube8.com
+0.0.0.0 xhamster.com
+0.0.0.0 xnxx.com
+0.0.0.0 youporn.com
+0.0.0.0 modelhub.com
+0.0.0.0 thumbzilla.com
+0.0.0.0 redtube.com
+0.0.0.0 pornhub.com
+0.0.0.0 xtube.com
 
 #Ad's WoWhead Classic
 anyclip.com
